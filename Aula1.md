@@ -33,4 +33,19 @@ Grupo de recursos (Caixa) - que vai nos servir de espaço para alocarmos o que �
 **Atenção quanto ao nome**
 ![[Pasted image 20230505172325.png]]
 
-!Criar recursos mais próximos das pessoas - por questões de velocidade de entrega 
+!Criar recursos mais próximos das pessoas - por questões de velocidade de entrega  
+
+tags - marcações com informações adicionais 
+
+Ferramentas para interagir com o Azure 
+Portal do azure, azure Powershell, Azure Cloud Shell e CLI (interface de linha de comando)
+
+Pouco contato - Usar o portal é mais intuitivo 
+Mais de 60 regiões 
+Replicar dados pelos data centers de uma mesma região 
+
+Modelo de Responsabilidade Compartilhada
+![image](https://github.com/mariannaariel/SecurityGirls/assets/49196442/d6a78064-a010-4633-9632-db2970e7f0cb)
+
+Transferencia de responsabilidade para provedores de nuvem (hosts físicos,r
+
