@@ -1,11 +1,11 @@
-### Descrever conceitos de Segurança, Conformidade e Identidade
+## Descrever conceitos de Segurança, Conformidade e Identidade
 
 A proteção de dados, identidades e recursos locais é do administrador/dono/não é fornecida a terceiros.
 
 Defesa em profundidade 
 Segurança física, identidade e acesso, perímetro,rede, computação, aplicativo e dados
 
-#Três pilares (Confidencialidade, Integridade e Disponibilidade)
+### Três pilares (Confidencialidade, Integridade e Disponibilidade)
 Confidencialidade - manter os dados secretos, confidenciais, guardado mais "secretamente possível"
 Integridade - se os dados estão da mesma forma que formam entregues ou seja íntegros 
 Disponibilidade - Garantir que os dados estejam disponíveis APENAS para quem é permito o acesso
@@ -18,7 +18,7 @@ Criptografia e Hash
 Criptografia simétrica e assimétrica - diferença no uso das chaves 
 Hash - não há possibilidade de voltar ao inicial
 
-Conformidade dos dados
+## Conformidade dos dados
 Residência de dados - Regem os locais FÍSICOS onde os dados podem ser armazenados e como e quando podem ser transferidos, processados ou acessados internacionalmente.
 Soberania de dados - dados estão sujeitos às leis e regulamentos do país/região em que são coletados fisicamente, mantidos ou processados 
 Privacidade de dados - Fornecer aviso e ser TRANSPARENTE sobre a coleta, o processamento, uso e o compartilhamento de dados pessoais são princípios fundamentais das leis e regulamentos de privacidade
