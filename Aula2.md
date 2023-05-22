@@ -5,7 +5,7 @@ A proteção de dados, identidades e recursos locais é do administrador/dono/n�
 Defesa em profundidade 
 Segurança física, identidade e acesso, perímetro,rede, computação, aplicativo e dados
 
-##Três pilares (Confidencialidade, Integridade e Disponibilidade)
+#Três pilares (Confidencialidade, Integridade e Disponibilidade)
 Confidencialidade - manter os dados secretos, confidenciais, guardado mais "secretamente possível"
 Integridade - se os dados estão da mesma forma que formam entregues ou seja íntegros 
 Disponibilidade - Garantir que os dados estejam disponíveis APENAS para quem é permito o acesso
