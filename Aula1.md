@@ -47,5 +47,23 @@ Replicar dados pelos data centers de uma mesma região
 Modelo de Responsabilidade Compartilhada
 ![image](https://github.com/mariannaariel/SecurityGirls/assets/49196442/d6a78064-a010-4633-9632-db2970e7f0cb)
 
-Transferencia de responsabilidade para provedores de nuvem (hosts físicos,r
+Transferencia de responsabilidade para provedores de nuvem (hosts físicos,rede física e datacenter físico)
 
+$200 em serviços durante 30 dias 
+
+Infraestrutura como serviço - servidores e armazenamento, host (máquina ligada/ taxa de armazenamento de dados) 
+Plataforma como serviço - Banco sozinho, gerência somente os dados do banco 
+Software como serviço - pensando diretamente em serviços, 365, email e calendário. (Diferencia pelo licenciamento)/ Produto pronto e personalizável 
+
+Resumo ![image]
+(https://github.com/mariannaariel/SecurityGirls/assets/49196442/7ce94206-a780-4329-9aea-2b5fb8938d9e)
+
+Recursos do Azure 
+![image](https://github.com/mariannaariel/SecurityGirls/assets/49196442/4398832b-a7e4-4b50-8e48-933466ab66d7)
+
+Dentro do azure Microsoft defender for cloud 
+![image](https://github.com/mariannaariel/SecurityGirls/assets/49196442/88ebc439-be08-4453-8b59-72c7ae6778ea)
+
+Conceitos de notas - postura de segurança, métricas do que está acontecendo 
+
+![image](https://github.com/mariannaariel/SecurityGirls/assets/49196442/05ca0d9d-b5ab-4089-af57-8b0f3d6d0508)
